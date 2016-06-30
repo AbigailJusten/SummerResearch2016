@@ -1,0 +1,13 @@
+Job Title: Database Administrators
+Major:  Computer Science
+
+Description: Administer, test, and implement computer databases, applying knowledge of database management systems. Coordinate changes to computer databases. May plan, coordinate, and implement security measures to safeguard computer databases.
+
+Requirements: Experience: A minimum of two to four years of work-related skill, knowledge, or experience is needed for these occupations. For example, an accountant must complete four years of college and work for several years in accounting to be considered qualified.
+
+Education: Most of these occupations require a four - year bachelor's degree, but some do not.
+
+Training: Employees in these occupations usually need several years of work-related experience, on-the-job training, and/or vocational training.
+
+
+Significant Points: Database administrators (DBAs) use specialized software to store and organize data, such as financial information and customer shipping records. They make sure that data are available to users and are secure from unauthorized access.Almost all database administrators work full time. About a quarter worked more than 40 hours per week in 2012.Database administrators usually have a bachelor's degree in an information- or computer- related subject. Before becoming an administrator, these workers typically get work experience in a related field.The median annual wage for database administrators was $77,080 in May 2012.Employment of database administrators is projected to grow 15 percent from 2012 to 2022, faster than the average for all occupations. Growth in this occupation will be driven by the increased data needs of companies across the economy.

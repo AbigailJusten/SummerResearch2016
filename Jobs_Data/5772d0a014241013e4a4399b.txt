@@ -1,0 +1,13 @@
+Job Title: Software Developers, Systems Software
+Major:  Engineering
+
+Description: Research, design, develop, and test operating systems-level software, compilers, and network distribution software for medical, industrial, military, communications, aerospace, business, scientific, and general computing applications. Set operational specifications and formulate and analyze software requirements. May design embedded systems software. Apply principles and techniques of computer science, engineering, and mathematical analysis.
+
+Requirements: Experience: A minimum of two to four years of work-related skill, knowledge, or experience is needed for these occupations. For example, an accountant must complete four years of college and work for several years in accounting to be considered qualified.
+
+Education: Most of these occupations require a four - year bachelor's degree, but some do not.
+
+Training: Employees in these occupations usually need several years of work-related experience, on-the-job training, and/or vocational training.
+
+
+Significant Points: Software developers are the creative minds behind computer programs. Some develop the applications that allow people to do specific tasks on a computer or other device. Others develop the underlying systems that run the devices or control networks.Many software developers work for computer systems design and related services firms or software publishers.Software developers usually have a bachelor's degree in computer science and strong computer programming skills.In May 2012, the median annual wage for applications software developers was $90,060. The median annual wage for systems software developers was $99,000 in May 2012.Employment of software developers is projected to grow 22 percent from 2012 to 2022, much faster than the average for all occupations. The main reason for the rapid growth is a large increase in the demand for computer software.

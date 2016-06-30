@@ -1,0 +1,7 @@
+Job Title: Business Intelligence Analysts
+Major:  Medicine & Healthcare
+
+Description: Produce financial and market intelligence by querying data repositories and generating periodic reports. Devise methods for identifying data patterns and trends in available information sources.
+
+Requirements: 
+Significant Points: 

@@ -1,0 +1,13 @@
+Job Title: Network and Computer Systems Administrators
+Major:  Computer Science
+
+Description: Install, configure, and support an organization's local area network (LAN), wide area network (WAN), and Internet systems or a segment of a network system. Monitor network to ensure network availability to all system users and may perform necessary maintenance to support network availability. May monitor and test Web site performance to ensure Web sites operate correctly and without interruption. May assist in network modeling, analysis, planning, and coordination between network and data communications hardware and software. May supervise computer user support specialists and computer network support specialists. May administer network security measures.
+
+Requirements: Experience: A minimum of two to four years of work-related skill, knowledge, or experience is needed for these occupations. For example, an accountant must complete four years of college and work for several years in accounting to be considered qualified.
+
+Education: Most of these occupations require a four - year bachelor's degree, but some do not.
+
+Training: Employees in these occupations usually need several years of work-related experience, on-the-job training, and/or vocational training.
+
+
+Significant Points: Computer networks are critical parts of almost every organization. Network and computer systems administrators are responsible for the day-to-day operation of these networks.Network and computer systems administrators work with the physical computer networks of a variety of organizations and therefore are employed in many industries.Although some employers require a postsecondary certificate, most require a bachelor's degree in a field related to computer or information science.The median annual wage for network and computer systems administrators was $72,560 in May 2012.Employment of network and computer systems administrators is projected to grow 12 percent from 2012 to 2022, about as fast as the average for all occupations. Growth will be highest at firms that provide cloud computing technology.

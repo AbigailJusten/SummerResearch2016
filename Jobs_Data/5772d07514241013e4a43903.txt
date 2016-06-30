@@ -1,0 +1,7 @@
+Job Title: Document Management Specialists
+Major:  Computer Science
+
+Description: Implement and administer enterprise-wide document management systems and related procedures that allow organizations to capture, store, retrieve, share, and destroy electronic records and documents.
+
+Requirements: 
+Significant Points: 

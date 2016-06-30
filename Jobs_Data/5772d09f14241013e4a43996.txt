@@ -1,0 +1,7 @@
+Job Title: Radio Frequency Identification Device Specialists
+Major:  Engineering
+
+Description: Design and implement radio frequency identification device (RFID) systems used to track shipments or goods.
+
+Requirements: 
+Significant Points: 

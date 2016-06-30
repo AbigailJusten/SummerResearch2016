@@ -1,0 +1,7 @@
+Job Title: Database Architects
+Major:  Medicine & Healthcare
+
+Description: Design strategies for enterprise database systems and set standards for operations, programming, and security. Design and construct large relational databases. Integrate new systems with existing warehouse structure and refine system performance and functionality.
+
+Requirements: 
+Significant Points: 

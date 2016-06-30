@@ -1,0 +1,13 @@
+Job Title: Web Developers
+Major:  Computer Science
+
+Description: Design, create, and modify Web sites. Analyze user needs to implement Web site content, graphics, performance, and capacity. May integrate Web sites with other computer applications. May convert written, graphic, audio, and video components to compatible Web formats by using software designed to facilitate the creation of Web and multimedia content.
+
+Requirements: Experience: Previous work-related skill, knowledge, or experience is required for these occupations. For example, an electrician must have completed three or four years of apprenticeship or several years of vocational training, and often must have passed a licensing exam, in order to perform the job.
+
+Education: Most occupations in this zone require training in vocational schools, related on-the-job experience, or an associate's degree. Some may require a bachelor's degree.
+
+Training: Employees in these occupations usually need one or two years of training involving both on-the-job experience and informal training with experienced workers.
+
+
+Significant Points: Web developers design and create websites. They are responsible for the look of the site. They are also responsible for the site's technical aspects, such as performance and capacity, which are measures of a website's speed and how much traffic the site can handle. They also may create content for the site.About a quarter of web developers were self-employed in 2012. Non-self-employed developers work primarily in the computer systems design and related services industry.The typical education needed to become a web developer is an associate's degree in web design or related field. Web developers need knowledge of both programming and graphic design.The median annual wage for web developers was $62,500 in May 2012.Employment of web developers is projected to grow 20 percent from 2012 to 2022, faster than the average for all occupations. Demand will be driven by the growing popularity of mobile devices and ecommerce.
