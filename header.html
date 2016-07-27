@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+	<title>Summer 2016 Research Data</title>
+	<meta charset="utf-8" />
+	{% load staticfiles %}
+	<link rel="stylesheet" href="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css">
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+<script src="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js"></script>
+</head>
+
+<body class="body" style="background-color:#E1E3E4">
+<div class = "collapse navbar-collapse" style = "background-color: #729F98">
+	<ul class="nav navbar-nav" style = "size: 16px">
+		<li><a style="text-decoration: none; color:#677077; size : 20px !important" href="{% url 'index' %}"><strong>Home</strong></a></li>
+		<li><a style="text-decoration: none; color: #677077; size: 20px" href="{% url 'data' %}"><strong>Jobs</strong></a></li>
+		<li><a style="text-decoration: none; color: #677077; size: 20px" href="{% url 'topiclist' %}"><strong>Topics</strong></a></li>
+	</ul>
+</div>
+	<div>
+	   {% block content %}
+	   {% endblock content %}	
+	</div>
+
+</html>

@@ -1,0 +1,43 @@
+{% extends "jobdata/header.html" %}
+<head>
+	<title>Data Details | Summer Research 2016</title>
+	<meta charset="utf-8" />
+</head>
+{% block content %}
+
+	<div class = 'container' style = "padding-top: 10px;">
+		<div>
+		<h3 style = "color: #64706C;"><strong>Job Data</strong></h3>
+		<div class ="list-group-item">
+	   	<p style = "color: #64706C;">{{ data.title}}</p>
+		<p style = "color: #64706C;">{{ data.major}}</p>
+		<p style = "color: #64706C;">{{ data.description }}</p> 
+		</div>
+		</div> 
+		
+		<h3 style = "color: #64706C;"><strong>Topics</strong></h3>
+		<ul class="list-group">
+			<li class ="list-group-item"><span class=
+			"badge">{{ data.topic1 }}%</span>
+			<a href = "{% url 'topics' data.topic1_position %}">
+			{{ topic1.topic }} </li> </a>
+			
+			{% if data.topic2 != None %}
+			<li class ="list-group-item"><span class=
+			"badge">{{ data.topic2 }}%</span>
+			<a href = "{% url 'topics' data.topic1_position %}">
+			{{ topic2.topic }} </li></a>
+			{% endif %}
+
+			{% if data.topic3 != None %}
+			<li class ="list-group-item"><span class=
+			"badge">{{ data.topic3 }}%</span>
+			<a href = "{% url 'topics' data.topic1_position %}">
+			{{ topic3.topic }} </li></a>
+			{% endif %}
+		</ul>
+
+			
+	</div>
+
+{% endblock content %}
