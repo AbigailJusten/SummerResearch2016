@@ -4,7 +4,7 @@
 #the majors listed on the page that will then be used in a later program 
 #to access the URLs for these majors
 #
-#Last Modified: June 28, 2016
+#Last Modified: July 1, 2016
 
 import requests
 from bs4 import BeautifulSoup
@@ -21,3 +21,4 @@ for major in majors:
 	majors_list.write(link['href'])
 	majors_list.write("\n")
 
+majors_list.close()

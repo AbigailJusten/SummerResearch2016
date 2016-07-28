@@ -1,6 +1,6 @@
 #Name: job_collection_text_conversion.py
 #
-#Purpose: Iteratre through the job_collection within MongoDB
+#Purpose: Iterate through the job_collection within MongoDB
 #and convert each entry into a text file that will be read by Mallet
 #
 #Last Modified: June 28, 2016

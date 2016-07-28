@@ -17,7 +17,7 @@ whatcanidowiththismajor_collection = db.whatcanidowiththismajor_collection
 #Open Major_List.txt and iterate through the majors. Access data
 #on each page, place into MangoDB doucments and insert into
 #MongoDB
-f = open('Majors_List_URLs.txt','r')
+f = open('Major_List.txt','r')
 major_list = f.readlines()
 all_majors =[]
 
