@@ -1,0 +1,29 @@
+{% extends "jobdata/header.html" %}
+<head>
+	<title>Topic Listing | Summer Research 2016</title>
+	<meta charset="utf-8" />
+</head>
+{% block content %}
+
+	<div class = 'container'>
+		<h2 style = "color: #64706C;"><strong>Topics</strong></h2>
+		<h3 style = "color: #64706C;">{{ topic.topic }}</h3>
+	<ul class="list-group">
+		{% for job in topic1_data %}
+		<li class ="list-group-item"> <span class=
+		"badge">{{ job.topic1 }}%</span><a href = "{% url 'datadetail' job.id %}">{{ job.title }}<br> {{ job.major}}</li></a>
+		{% endfor %}
+
+		{% for job in topic2_data %}
+		<li class ="list-group-item"><span class=
+		"badge">{{ job.topic2 }}%</span> <a href = "{% url 'datadetail' job.id %}">{{ job.title}}<br>{{ job.major}} </li></a>
+		{% endfor %}
+
+		{% for job in topic3_data %}
+		<li class ="list-group-item"> <span class=
+		"badge">{{ job.topic3 }}%</span><a href = "{% url 'datadetail' job.id %}">{{ job.title}}<br>   {{ job.major}} </li></a>
+		{% endfor %}
+	</ul> 	
+	</div>
+
+{% endblock content %}

@@ -1,0 +1,22 @@
+{% extends "jobdata/header.html" %}
+<head>
+	<title>Topic List | Summer Research 2016</title>
+	<meta charset="utf-8" />
+</head>
+{% block content %}
+
+	<div class = 'container'>
+		<h2 style = "color: #64706C;"><strong>Topics</strong></h2>
+		<form action="/topicsearch/" method = "get">
+			<input type="text" name = "topic">
+			<input type="submit" value="Search">
+		</form>
+		<br>
+	<div class="list-group" style = "border: 1px solid #030">
+	{% for topic in topics %}
+		<a href = "{% url 'topics' topic.id %}" class="list-group-item">{{ topic.topic}}</a>
+	{% endfor %}
+	   	
+	</div>
+
+{% endblock content %}
